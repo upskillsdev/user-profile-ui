@@ -1,4 +1,4 @@
-import { cn, Spacer } from '@nextui-org/react';
+import { cn, Spacer } from "@heroui/react";
 
 import { InfoLineProps } from '../types';
 

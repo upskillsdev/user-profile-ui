@@ -1,4 +1,4 @@
-import { Avatar, Button, Link, Spacer } from '@nextui-org/react';
+import { Avatar, Button, Link, Spacer } from "@heroui/react";
 import { Link as LinkIcon, MapPin } from 'lucide-react';
 
 import { ProfileInfoProps } from '../types';

@@ -1,11 +1,11 @@
-import { Link } from "@nextui-org/react";
+import { Link } from "@heroui/react";
 import {
   Navbar as NextUINavbar,
   NavbarBrand,
   NavbarContent,
   NavbarItem,
-} from "@nextui-org/react";
-import { link as linkStyles } from "@nextui-org/react";
+} from "@heroui/react";
+import { link as linkStyles } from "@heroui/react";
 import clsx from "clsx";
 
 import { siteConfig } from "@/config/site";

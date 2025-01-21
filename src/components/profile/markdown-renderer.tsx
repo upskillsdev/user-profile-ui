@@ -1,5 +1,5 @@
 import React from 'react';
-import { Image } from '@nextui-org/react';
+import { Image } from "@heroui/react";
 import Markdown, { Options } from 'react-markdown';
 import remarkGfm from 'remark-gfm';
 

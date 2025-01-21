@@ -1,4 +1,4 @@
-import { Tab, Tabs } from '@nextui-org/react';
+import { Tab, Tabs } from "@heroui/react";
 
 import { ProfileTimelineProps } from '../types';
 import { useTimelineTabs } from './use-timeline-tabs';

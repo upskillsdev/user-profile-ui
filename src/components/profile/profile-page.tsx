@@ -1,5 +1,5 @@
 import React from 'react';
-import { ScrollShadow, Spacer } from '@nextui-org/react';
+import { ScrollShadow, Spacer } from "@heroui/react";
 import { useScroll } from 'framer-motion';
 
 import { FeaturePhotos } from './feature-photos';

@@ -1,4 +1,4 @@
-import { CardProps } from '@nextui-org/react';
+import { CardProps } from "@heroui/react";
 
 export interface Company {
   name: string;

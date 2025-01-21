@@ -11,7 +11,7 @@ import {
   DropdownTrigger,
   Link,
   User,
-} from '@nextui-org/react';
+} from "@heroui/react";
 import { Ellipsis } from 'lucide-react';
 
 import { PostActionType, PostCardProps, PostMenuActionType } from '../../types';
