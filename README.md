@@ -1,6 +1,10 @@
-# Vite & NextUI Template
+# IMPORTANT: This repo is now in legacy mode.
+Please use shadcn CLI to get the latest code:
+```
+npx shadcn@latest add https://upskills.dev/r/profile-ui.json
+```
 
-This is a template for creating applications using Vite and NextUI (v2).
+## Vite & NextUI Template
 
 [Try it on CodeSandbox](https://githubbox.com/nextui-org/vite-template)
 
